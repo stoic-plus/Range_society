@@ -1,7 +1,7 @@
 # Range Society
 A Turing School group project created with Rails.
 
-[RangeSociety](https://range-society.herokuapp.com)
+[RangeSociety](https://serene-forest-55622.herokuapp.com/)
 ![homepage](/.readme/home.jpg)
 
 Contributors:
